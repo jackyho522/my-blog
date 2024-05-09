@@ -9,8 +9,7 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
+testtesttest
 </header>
 
 <!--
@@ -20,7 +19,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-## Step 2: Configure your site
+## test
 
 _You turned on GitHub Pages! :tada:_
 
